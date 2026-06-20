@@ -43,6 +43,42 @@ Inicio item 2
 creacion de la maquina virtual windows server 2019 en la nube
 
 
+<img width="1919" height="1036" alt="image" src="https://github.com/user-attachments/assets/7c365e44-8120-4e7a-8544-afae84834b76" />
+
+ips y dns dada al crear la maquina 
+
+<img width="1637" height="1056" alt="image" src="https://github.com/user-attachments/assets/b29873eb-5456-4e8b-9e44-3ed6e0da4768" />
+correcto ingreso a la maquina virtual por conexion a escritorio remoto
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/e99505fb-b200-4246-b70a-b64458ae952f" />
+<img width="1821" height="891" alt="image" src="https://github.com/user-attachments/assets/5e5ea7a8-62b6-4eaa-a7b1-9b41c8607a93" />
+
+se instalaron los roles de servidor web (IIS) y Servicio FTP en Windows Server 2019 a través del administrador del servidor como se muestran en las 2 imagenes
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/5083c2d3-3c67-46c7-a23d-74823811359e" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/6af46b74-a59f-492f-9b9d-e1408186f6c7" />
+se comprobó el correcto funcionamiento del servidor web IIS accediendo desde un navegador externo (Windows) a la dirección IP pública de la instancia
+esto confirma que el servicio HTTP está operativo, que la página de bienvenida fue personalizada exitosamente y que el contenido está accesible desde Internet, cumpliendo con los requisitos de la evaluación
+
+<img width="1839" height="931" alt="image" src="https://github.com/user-attachments/assets/4f67cbcf-ad88-4376-b33f-92c4fccf8d89" />
+<img width="1837" height="918" alt="image" src="https://github.com/user-attachments/assets/1979f8c6-3cfd-4023-8ce9-48ab5f8c7345" />
+<img width="1871" height="943" alt="image" src="https://github.com/user-attachments/assets/511572ac-7452-4c05-8d60-a3527430043e" />
+
+se hicieron las configuraciones pertinentes pero no se logro compartir las carpetas como lo indica por ende el punto fue logrado hasta la mitad
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
